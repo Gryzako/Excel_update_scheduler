@@ -1,3 +1,5 @@
+# Program created for DN company used to create batches for terminal update in BP env.
+
 from tkinter import *
 from pandas import DataFrame, ExcelWriter, read_excel
 from tkinter import filedialog
